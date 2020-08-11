@@ -1,1 +1,2 @@
-# GCOS-Kridaya
+# GCSO
+GCSO
